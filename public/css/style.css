@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2? family=Hummer&display=swap');
+
+*{
+
+    
+    font-family: 'Source Sans Pro', sans-serif
+}
+
+svg{
+    z-index: -4;
+}
+
+.home-svg{
+    height: 100px;
+   margin-left:-400px;
+   margin-top: 10px;
+}
+
+.home-des{
+   
+    font-size: 15px;
+    width: 150px;
+
+   
+    left: 600px;
+}
+
+nav{
+    background-color:#bbaad7;
+}
+
+.nav-change-color{
+    color: rgb(20, 18, 18);
+    font-size: 20px;
+    transition: all 1000ms ease 0ms;
+}
+
+.nav-change-color:hover{
+    font-size: 25px;
+}
+
+form{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
